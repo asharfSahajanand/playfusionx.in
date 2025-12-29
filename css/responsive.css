@@ -204,7 +204,7 @@
     }
     
     .box_one a {
-        width: calc(50% - 10px);
+        width: calc(50% - px);
         margin: 5px;
     }
     
@@ -315,7 +315,7 @@
     }
     
     .box_one a {
-        width: calc(50% - 4px);
+        width: calc(50% - px);
         margin: 0;
     }
     
@@ -425,7 +425,7 @@
     }
     
     .box_one a {
-        width: calc(50% - 3px);
+        width: calc(50% - px);
     }
     
     .box_one a .img {
